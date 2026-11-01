@@ -1,0 +1,7 @@
+streamlit>=1.30
+scikit-learn==1.7.2
+numpy
+scipy
+joblib
+nltk>=3.8
+beautifulsoup4>=4.12
